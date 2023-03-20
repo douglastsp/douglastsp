@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Douglas Teixeira</h1>
+<h1 align="left">Hi 👋, I'm Douglas Teixeira</h1>
 
 - 🔥 Full Stack Web Developer
 - 🔭 I’m currently working on [Graphis Comunicação](https://graphiscomunicacao.com.br/)
