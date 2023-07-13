@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Douglas Teixeira</h1>
 
 - 🔥 Full Stack Web Developer
-- 🔭 I’m currently working on [Graphis Comunicação](https://graphiscomunicacao.com.br/)
 - 🌱 I’m currently learning Laravel and Vue.js
 - 💬 Ask me about **PHP, HTML, CSS, SQL, JavaScript**
 
