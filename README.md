@@ -37,7 +37,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=douglastsp&count_private=true&commits=true&show_icons=true&theme=vision-friendly-dark" alt="douglas' stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastsp&layout=compact&theme=vision-friendly-dark" alt="douglas' most languages"/>
 </p>
 
